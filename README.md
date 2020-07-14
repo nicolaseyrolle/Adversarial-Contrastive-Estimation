@@ -1,6 +1,6 @@
 # Adversarial-Contrastive-Estimation
 
-You can find in this repository a thesis supervised by Christian ROBERT that I have written with two classemates in the context of our 1st year in applied mathematics master's degree at Paris Sciences et Lettres University. 
+You can find in this repository a thesis supervised by Christian ROBERT that I have written with two classemates in the context of our 1st year in Applied Mathematics master's degree at Paris Sciences et Lettres University. 
 
 The paper deals with application of Generative Algorithms for statistical estimation in unnormalized (parametric) statistical models framework. These methods are also known as Adversarial Contrastive Estimation (ACE).
 
